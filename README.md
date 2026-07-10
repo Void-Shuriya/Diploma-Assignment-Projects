@@ -14,7 +14,7 @@ The program reads student records from a text file, calculates coursework and ov
 
 **Technologies:** C++ and text-file handling
 
-[View Project](./CGPA Calculator)
+[View Project](./CGPA%20Calculator)
 
 ---
 
@@ -26,7 +26,7 @@ The system allows users to view available books, borrow and return books, set du
 
 **Technologies:** Java and object-oriented programming
 
-[View Project](./Library Management System)
+[View Project](./Library%20Management%20System)
 
 ---
 
@@ -38,7 +38,7 @@ The application allows lecturers to manage student records, record daily attenda
 
 **Technologies:** Java, Android Studio and SQLite
 
-[View Project](./Student Attendance App)
+[View Project](./Student%20Attendance%20App)
 
 ---
 
