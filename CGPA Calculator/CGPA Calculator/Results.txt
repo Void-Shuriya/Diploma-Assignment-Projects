@@ -1,0 +1,28 @@
+Name              Coursework            Exam            Overall Score         Grade               
+-------------------------------------------------------------------------------------
+Jordan Jim          24.11               60.00               42.11               D                   
+Nurul Ain           43.05               87.00               69.15               B                   
+Subramaniam         43.40               90.00               70.40               A                   
+Tan Mei Ling        26.74               65.00               46.24               D                   
+Priya Lakshmi       28.35               78.00               51.75               C                   
+Alex Wong           23.06               56.00               39.86               F                   
+Mohd Hafiz          34.86               80.00               58.86               C                   
+Chong Li Wei        43.89               91.00               71.19               A                   
+Syahmina            27.54               66.00               47.34               D                   
+Rajini Kumar        19.11               45.00               32.61               F                   
+
+
+--------------
+Result Summary
+--------------
+Date: Fri Oct  3 11:03:56 2025
+Subject: Programming Methodology
+
+Grade	Student
+ A        2
+ B        1
+ C        2
+ D        3
+ F        2
+
+Total Students: 10
