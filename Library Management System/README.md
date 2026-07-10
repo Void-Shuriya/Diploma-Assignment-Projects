@@ -1,23 +1,39 @@
-# 📚 Library Management System (Java OOP Project)
+# 📚 Library Management System
 
-This project was created as part of my Object-Oriented Programming (OOP) assignment.  
-It is a simple **console-based Library Management System** written in Java.
+A console-based library management system developed in Java using object-oriented programming concepts.
 
-## 🚀 Features
+## 📖 Overview
 
--   Display available books
--   Borrow a book and set a due date
--   Return a book and calculate late fees
-    -   RM1 per day if returned after due date
-    -   No fee if returned before due date
+This project was created as part of my Object-Oriented Programming assignment.
 
-## ⚠️ Notes
+The system allows users to view available books, borrow and return books, set due dates, and calculate late-return fees.
 
--   Data is stored only during program runtime (no database or file storage).
--   Closing the program clears all borrowed/returned book data.
+## ⚙️ Features
+
+* Displays available books
+* Allows users to borrow a book
+* Sets a due date for borrowed books
+* Allows users to return books
+* Calculates late-return fees
+
+  * RM1 per late day
+  * No fee when returned on or before the due date
 
 ## 📂 Project Structure
 
--   LibrarySystem.java # Main program
--   Book.java # Book class
--   Color.java # Console colors
+```text
+LibrarySystem.java  - Main program
+Book.java           - Book class
+Color.java          - Console colour formatting
+```
+
+## 📌 Notes
+
+* The system does not use a database or file storage.
+* Data is stored only while the program is running.
+* Closing the program clears all borrowing and return records.
+
+## 🛠️ Technology
+
+* Java
+* Object-oriented programming
