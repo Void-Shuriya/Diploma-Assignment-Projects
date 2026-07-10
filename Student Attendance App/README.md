@@ -1,16 +1,34 @@
-# 📚 Student Attendance App (Android Project)
+# 📱 Student Attendance App
+
+An Android-based student attendance application developed using Java and SQLite.
 
 ## 📖 Overview
+
 This project was created as part of my Mobile Application Development assignment.
-It is an Android-based application for lecturers to manage student attendance efficiently.
 
-## 🚀 Features
-- Add, edit, and delete student records (name, metric number, program)
-- Record daily attendance (Present / Absent / NotMarked)
-- Generate automated attendance summaries and calculate percentages
-- Clean, user-friendly interface with consistent layout and navigation
+The application is designed to help lecturers manage student records, record daily attendance, and view attendance summaries.
 
-## ⚠️ Notes
-- Data is stored locally using SQLite database
-- Deleting a student also removes their attendance records
-- App is intended for academic demonstration and learning purposes
+## ⚙️ Features
+
+* Adds, edits, and deletes student records
+* Stores student name, matric number, and programme
+* Records attendance as:
+
+  * Present
+  * Absent
+  * Not Marked
+* Generates attendance summaries automatically
+* Calculates attendance percentages
+* Provides a clear and consistent application interface
+
+## 📌 Notes
+
+* Data is stored locally using SQLite.
+* Deleting a student also removes their related attendance records.
+* The application was developed for academic demonstration and learning purposes.
+
+## 🛠️ Technologies
+
+* Java
+* Android Studio
+* SQLite
